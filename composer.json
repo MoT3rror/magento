@@ -19,10 +19,6 @@
         "fbrnc/aoe_templatehints": "*",
         "fbrnc/aoe_profiler": "*",
         "kirchbergerknorr/magento-debug": "*",
-        "phpunit/phpunit": "3.7.*",
-        "phpunit/dbunit": ">=1.2",
-        "phpunit/php-invoker": "*",
-        "phpunit/phpunit-selenium": ">=1.2",
         "kirchbergerknorr/phpunit": "*"
     }
 }
