@@ -3,7 +3,6 @@
     "description": "Kirchbergerknorr Magento Default",
     "type": "magento-module",
     "license":"OSL-3.0",
-    "minimum-stability": "dev",
     "authors": [
         {"name": "Aleksey Razbakov", "email": "aleksey@razbakov.com"}
     ],
@@ -12,12 +11,6 @@
     ],
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "connect20/mage_all_latest": "*",
-        "firegento/psr0autoloader": "dev-master",
-        
-        "fbrnc/aoe_templatehints": "*",
-        "fbrnc/aoe_profiler": "*",
-        "kirchbergerknorr/magento-debug": "*",
-        "kirchbergerknorr/phpunit": "*"
+        "firegento/magesetup": "*"
     }
 }
